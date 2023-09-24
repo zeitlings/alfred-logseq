@@ -1,6 +1,10 @@
-# Logseq Workflow
+<h1 align=center>
+  <img src="https://github.com/zeitlings/alfred-logseq/assets/25689591/082f21f3-1d1b-41af-a938-028e70d85099" width="100px"/><br>
+  Logseq Workflow
+</h1>
+<p align="center">Find blocks, tasks, or pages, and quickly send text to the journal.</p>
 
-Find blocks, tasks, or pages, and quickly send text to the journal.
+
 
 ### Usage
 
