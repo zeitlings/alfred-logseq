@@ -2,7 +2,7 @@
   <img src="https://github.com/zeitlings/alfred-logseq/assets/25689591/082f21f3-1d1b-41af-a938-028e70d85099" width="100px"/><br>
   Logseq Workflow
 </h1>
-<p align="center">Find blocks, tasks, or pages, and quickly send text to the journal.</p>
+<p align="center">Alfred workflow to find blocks, tasks, or pages, and to quickly send text to the journal.</p>
 
 
 
