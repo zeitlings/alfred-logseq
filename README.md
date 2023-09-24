@@ -4,10 +4,10 @@ Find blocks, tasks, or pages, and quickly send text to the journal.
 
 ### Usage
 
-- ` ls . `: Shows static fetch options for blocks with markers.
-- ` ls + {{new block}} `: Append to today's journal page.
-- ` ls : {{query}} `: Query pages.
-- ` ls {{query}} `: Query blocks.
+- ` ls . ` Shows static fetch options for blocks with markers.
+- ` ls + {{new block}} ` Append to today's journal page.
+- ` ls : {{query}} ` Query pages.
+- ` ls {{query}} ` Query blocks.
 
 ---
 
