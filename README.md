@@ -2,16 +2,18 @@
   <img src="https://github.com/zeitlings/alfred-logseq/assets/25689591/082f21f3-1d1b-41af-a938-028e70d85099" width="100px"/><br>
   Logseq Workflow
 </h1>
-<p align="center">Alfred workflow to find blocks, tasks, or pages, and to quickly send text to the journal.</p>
+<p align="center">Alfred workflow to find blocks, tasks, or pages, and to quickly send a note to the journal.</p>
 
 
 
 ### Usage
 
 - ` ls . ` Shows static fetch options for blocks with markers.
+  - <kbd>cmd + shift</kbd> to mark task complete.
 - ` ls + {{new block}} ` Append to today's journal page.
 - ` ls : {{query}} ` Query pages.
   - <kbd>cmd + enter</kbd> to query blocks on page.
+  - <kbd>shift</kbd> to quick look preview the page.
 - ` ls {{query}} ` Query blocks.
   - <kbd>cmd + enter</kbd> to open corresponding page.
   - <kbd>opt + enter</kbd> to open the first detected URL.[^1]
