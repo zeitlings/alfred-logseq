@@ -32,7 +32,7 @@
 
 ### Info
 
-- How to activate Logseq's [Local HTTP Server](https://docs.logseq.com/#/page/local%20http%20server)
+- How to activate Logseq's [Local HTTP Server](https://docs.logseq.com/#/page/local%20http%20server) and generate a token.
 
 
 > __Note__  
