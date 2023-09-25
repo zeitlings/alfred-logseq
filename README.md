@@ -22,6 +22,14 @@
 
 ---
 
+<img width="612" alt="ls1" src="https://github.com/zeitlings/alfred-logseq/assets/25689591/7321d517-33f2-49df-a343-0737ad09cacf">
+<img width="612" alt="ls2" src="https://github.com/zeitlings/alfred-logseq/assets/25689591/734f09b9-bae9-47b5-9166-fecebb79e863">
+<img width="612" alt="ls3" src="https://github.com/zeitlings/alfred-logseq/assets/25689591/b8d3e6aa-da79-4025-a4c2-aeabc4c7c69a">
+<img width="612" alt="ls4" src="https://github.com/zeitlings/alfred-logseq/assets/25689591/bc478a10-276a-4078-8c16-d022f2883802">
+<img width="612" alt="ls5" src="https://github.com/zeitlings/alfred-logseq/assets/25689591/61e09a89-9d29-4199-b5d7-370fb5a778be">
+
+
+
 ### Info
 
 - How to activate Logseq's [Local HTTP Server](https://docs.logseq.com/#/page/local%20http%20server)
