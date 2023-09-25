@@ -2,9 +2,8 @@
   <img src="https://github.com/zeitlings/alfred-logseq/assets/25689591/082f21f3-1d1b-41af-a938-028e70d85099" width="100px"/><br>
   Logseq Workflow
 </h1>
-<p align="center">Alfred workflow to find blocks, tasks, or pages, and to quickly send notes to the journal.</p>
-
-
+<p align="center">Alfred workflow to find blocks, tasks, or pages, and to quickly send notes to the journal.<br><a href="https://github.com/zeitlings/ubib/releases"></p>
+<p align="center"><a href="https://github.com/zeitlings/alfred-logseq/releases/latest"><img src="https://img.shields.io/github/v/release/zeitlings/alfred-logseq.svg" alt="GitHub Release"></a></p>
 
 ### Usage
 
